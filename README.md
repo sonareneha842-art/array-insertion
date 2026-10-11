@@ -1,4 +1,4 @@
-# arrat-insertion
+# array-insertion
 #include <iostream>
 using namespace std;
 
